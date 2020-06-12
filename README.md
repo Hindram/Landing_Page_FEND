@@ -7,8 +7,10 @@
 
 ## structure
 css
-- styles.css    
+- styles.css 
+
 index.html
+
 js
 - app.js
 
