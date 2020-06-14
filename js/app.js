@@ -51,7 +51,7 @@ function GenerateNavList() {
   }
 }
 
-function activateOnScrollSection() {
+function ActivateOnScrollSection() {
   let activeSection = sections[0];
   let header = document.querySelector(".main__hero");
   let li = document.querySelectorAll("li");
@@ -119,4 +119,4 @@ function isEleInViewport(element) {
 GenerateNavList();
 
 // Set sections as active
-activateOnScrollSection();
+ActivateOnScrollSection();
